@@ -1,0 +1,8 @@
+﻿  GameManager.cpp
+C:\Users\Sandhir Dhanda\source\repos\GameProject_v1.0\GameProject_v1.0\FlappyGame\GameManager.cpp(8,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sandhir Dhanda\source\repos\GameProject_v1.0\GameProject_v1.0\FlappyGame\GameManager.cpp(8,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sandhir Dhanda\source\repos\GameProject_v1.0\GameProject_v1.0\FlappyGame\GameManager.cpp(13,111): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sandhir Dhanda\source\repos\GameProject_v1.0\GameProject_v1.0\FlappyGame\GameManager.cpp(13,84): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sandhir Dhanda\source\repos\GameProject_v1.0\GameProject_v1.0\FlappyGame\GameManager.cpp(14,110): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\Sandhir Dhanda\source\repos\GameProject_v1.0\GameProject_v1.0\FlappyGame\GameManager.cpp(14,83): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+  GameProject_v1.0.vcxproj -> C:\Users\Sandhir Dhanda\source\repos\GameProject_v1.0\Debug\GameProject_v1.0.exe
